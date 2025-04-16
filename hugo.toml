@@ -4,8 +4,7 @@ title = 'Eitan Adler'
 
 theme = [ 'hugo-resume' ]
 
-enableGitInfo = false
-
+enableGitInfo = true
 
 [params]
 address = "San Francisco, CA"
@@ -19,4 +18,6 @@ showContact = false
 showBoards  = false
 showCertifications = false
 showSocializations = false
+sections = ["education", ]
+# sections = ["skills", "education", ]
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
