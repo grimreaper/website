@@ -7,4 +7,9 @@ tags: []
 image: ""
 link: ""
 fact: ""
+params:
+  role: Improviser
+  theatre: BATS
 ---
+
+45 Minutes Improvised Fantasy Play
