@@ -1,0 +1,8 @@
+name: check code for markdown issues
+
+on:
+  push:
+
+jobs:
+  call-mdl-workflow:
+    uses: routingblog/workflow/.github/workflows/markdown-cli.yml@master

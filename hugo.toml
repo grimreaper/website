@@ -1,0 +1,22 @@
+baseURL = 'https://eitanadler.com/'
+languageCode = 'en-us'
+title = 'Eitan Adler'
+
+theme = [ 'hugo-resume' ]
+
+enableGitInfo = false
+
+
+[params]
+address = "San Francisco, CA"
+email = "eitan@eitanadler.com"
+favicon = "/favicon.ico"
+firstName = "Eitan"
+lastName = "Adler"
+profileImage = "img/EitanAdlerHeadshotV1.jpg"
+showQr = false
+showContact = false
+showBoards  = false
+showCertifications = false
+showSocializations = false
+# sections = ["skills","publications","creations","contributions","experience","education","blog"]
