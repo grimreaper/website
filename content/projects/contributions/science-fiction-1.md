@@ -6,5 +6,5 @@ description: "45 Minutes Improvised Science Fiction Play"
 tags: []
 image: ""
 link: ""
-fact: "Some fact"
+fact: ""
 ---

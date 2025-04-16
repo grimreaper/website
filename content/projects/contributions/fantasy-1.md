@@ -6,5 +6,5 @@ description: "45 Minutes Improvised Fantasy Play"
 tags: []
 image: ""
 link: ""
-fact: "Some fact"
+fact: ""
 ---
