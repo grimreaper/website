@@ -18,6 +18,6 @@ showContact = false
 showBoards  = false
 showCertifications = false
 showSocializations = false
-sections = ["education", ]
+sections = ["education", "contributions", "creations"]
 # sections = ["skills", "education", ]
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
