@@ -2,7 +2,7 @@
 title: "Improvised Fantasy"
 date: 2025-03-23
 featured: true
-description: "Fully improvised Fantasy play."
+description: "Fully improvised Fantasy play"
 tags: []
 image: ""
 link: ""
