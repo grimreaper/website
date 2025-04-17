@@ -2,7 +2,7 @@
 title: "This Ordinary Life"
 date: 2025-04-13
 featured: true
-description: "37 Minutes Improvised Good Vs Evil Play"
+description: "Fully Improvised Good Vs Evil Play"
 tags: []
 image: ""
 link: ""
