@@ -1,5 +1,5 @@
 ---
-title: "Improvised Fantasy (Player)"
+title: "Improvised Fantasy"
 date: 2025-03-23
 featured: true
 description: "Fully improvised Fantasy play."
