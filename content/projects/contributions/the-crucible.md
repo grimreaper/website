@@ -2,7 +2,7 @@
 title: "The Crucible"
 date: 2025-05-19
 featured: true
-description: "fictionalized story of the Salem witch trials"
+description: "Written by Arthur Miller"
 tags: []
 image: ""
 link: "https://www.eventbrite.com/e/the-crucible-tickets-1263155033709"
@@ -11,3 +11,5 @@ params:
   role: Assistant Stage Manager
   theatre: CCSF
 ---
+
+Directed by Patricia Miller.
