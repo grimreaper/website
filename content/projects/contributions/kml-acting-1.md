@@ -8,6 +8,6 @@ image: ""
 link: ""
 fact: ""
 params:
-  role: Multiple
+  role: Actor
   theatre: Killing My Lobster
 ---
