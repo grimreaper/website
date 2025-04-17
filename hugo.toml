@@ -18,5 +18,9 @@ showContact = false
 showBoards  = false
 showCertifications = false
 showSocializations = false
-sections = ["education", "contributions", "training"]
+sections = ["education", "contributions"]
+# sections = ["education", "contributions", "training"]
 # sections = ["skills","publications","creations","contributions","experience","education","blog"]
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]

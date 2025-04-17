@@ -12,4 +12,4 @@ params:
   theatre: BATS
 ---
 
-37 Minutes Improvised Good Vs Evil Play
+Fully Improvised Improvised Good Vs Evil Play
