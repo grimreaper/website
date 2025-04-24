@@ -1,7 +1,6 @@
 ---
 title: "The Crucible"
-date: 2025-05-19
-publishdate: 2025-01-01
+date: 2025-04-19
 featured: true
 description: "Written by Arthur Miller"
 tags: []
