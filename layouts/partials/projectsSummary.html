@@ -1,4 +1,4 @@
-{{ if lt (sub now.YearDay .Date.YearDay) 0 }}
+{{ if lt (sub now.Unix .Date.Unix) 0 }}
 <h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }} ({{ .Date.Format "2006" }} - Upcoming)</a></h3>
 {{ else }}
 <h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }} ({{ .Date.Format "2006" }})</a></h3>
