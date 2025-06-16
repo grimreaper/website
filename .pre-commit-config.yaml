@@ -21,7 +21,7 @@ repos:
     -   id: mixed-line-ending
     -   id: trailing-whitespace
 -   repo: https://github.com/DavidAnson/markdownlint-cli2
-    rev: v0.17.2
+    rev: v0.18.1
     hooks:
     -   id: markdownlint-cli2
         args:
@@ -31,6 +31,6 @@ repos:
             "content",
           ]
 - repo: https://github.com/crate-ci/typos
-  rev: v1.31.1
+  rev: v1.33.1
   hooks:
     - id: typos
