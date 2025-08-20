@@ -1,8 +1,8 @@
 ---
-title: "Sketch Comedy Showcase 2"
+title: "Sketch Comedy Showcase"
 date: 2025-07-28
-featured: false
-description: ""
+featured: true
+description: "Wide-ranging showcase for a public audience."
 tags: []
 image: ""
 link: ""
@@ -11,3 +11,7 @@ params:
   role: Actor
   theatre: Killing My Lobster
 ---
+
+Wide-ranging showcase for a public audience.
+
+Directed by Nicole Odell.
