@@ -1,0 +1,8 @@
+[certifications]
+  [certifications.cpr]
+    name = "CPR/AED"
+    organisation = "American Heart Association"
+    notes = ""
+  [certifications.scuba]
+    name = "Open Water Scuba Diver"
+    notes = ""

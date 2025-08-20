@@ -15,12 +15,9 @@ lastName = "Adler"
 profileImage = "img/EitanAdlerHeadshotV1.jpg"
 showQr = false
 showContact = true
-showBoards  = false
-showCertifications = false
 showSocializations = false
 sections = ["education", "experience", "contributions"]
-# sections = ["education", "contributions", "training"]
-# sections = ["skills","publications","creations","contributions","experience","education","blog"]
+# sections = ["training", "certifications", "skills","publications","creations","education","blog"]
 
 [outputs]
   home = ["HTML", "JSON", "RSS"]
