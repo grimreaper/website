@@ -19,5 +19,15 @@ showSocializations = false
 sections = ["education", "experience", "contributions"]
 # sections = ["training", "certifications", "skills","publications","creations","education","blog"]
 
+[[params.handles]]
+name = "LinkedIn"
+icon = "linkedin"
+link = "https://www.linkedin.com/in/eitana/"
+
+[[params.handles]]
+name = "Instagram"
+icon = "instagram"
+link = "https://www.instagram.com/eitanadler/"
+
 [outputs]
   home = ["HTML", "JSON", "RSS"]
