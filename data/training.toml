@@ -1,6 +1,16 @@
 [training]
-  [training.binghamton]
+  [training.act]
     class="Acting"
     school="American Conservatory of Theater"
+    teacher="..."
+    notes=""
+  [training.ccsf]
+    class="Acting"
+    school="CCSF"
+    teacher="..."
+    notes=""
+  [training.kml]
+    class="Acting"
+    school="KML"
     teacher="..."
     notes=""
