@@ -8,17 +8,17 @@
       {{ $sectionName := . }}
       {{ if in $projects . }}
          {{ with $site.GetPage "section" (printf "projects/%s" .) }}
-            {{ .Scratch.Set "sectionId" $sectionName }} 
+            {{ .Scratch.Set "sectionId" $sectionName }}
             {{ partial "sectionSummary" . }}
          {{ end }}
       {{ else if in $art . }}
          {{ with $site.GetPage "section" (printf "art/%s" .) }}
-            {{ .Scratch.Set "sectionId" $sectionName }} 
+            {{ .Scratch.Set "sectionId" $sectionName }}
             {{ partial "artSummary" . }}
          {{ end }}
       {{ else if in $sections . }}
          {{ with $site.GetPage "section" . }}
-            {{ .Scratch.Set "sectionId" $sectionName }} 
+            {{ .Scratch.Set "sectionId" $sectionName }}
             {{ partial "sectionSummary" . }}
          {{ end }}
       {{ else }}

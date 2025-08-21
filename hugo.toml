@@ -17,7 +17,7 @@ showQr = false
 showContact = true
 showSocializations = false
 sections = ["education", "experience", "contributions"]
-# sections = ["training", "certifications", "skills","publications","creations","education","blog"]
+# sections = ["training", "certifications", "skills","publications","creations","blog","art"]
 
 [[params.handles]]
 name = "LinkedIn"
