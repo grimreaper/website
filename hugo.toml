@@ -16,8 +16,8 @@ profileImage = "img/EitanAdlerHeadshotV1.jpg"
 showQr = false
 showContact = true
 showSocializations = false
-sections = ["education", "experience", "contributions"]
-# sections = ["training", "certifications", "skills","publications","creations","blog","art"]
+sections = ["education", "experience", "contributions", "art"]
+# sections = ["training", "certifications", "skills","publications","creations","blog"]
 
 [[params.handles]]
 name = "LinkedIn"

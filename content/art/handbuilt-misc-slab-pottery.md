@@ -4,7 +4,7 @@ date: 2025-03-16
 featured: true
 description: ""
 tags: []
-image: "handbuilt.webp"
+image: "/art/handbuilt.webp"
 link: ""
 params:
   medium: "ceramic"

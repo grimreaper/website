@@ -12,9 +12,9 @@
             {{ partial "sectionSummary" . }}
          {{ end }}
       {{ else if in $art . }}
-         {{ with $site.GetPage "section" (printf "art/%s" .) }}
+         {{ with $site.GetPage "section" (printf "%s" .) }}
             {{ .Scratch.Set "sectionId" $sectionName }}
-            {{ partial "artSummary" . }}
+            {{ partial "sectionSummary" . }}
          {{ end }}
       {{ else if in $sections . }}
          {{ with $site.GetPage "section" . }}
