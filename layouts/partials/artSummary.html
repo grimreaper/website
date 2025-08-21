@@ -3,13 +3,13 @@
   <div class="resume-content" style="width:200px;">
     <i>{{ .Params.medium }}</i>
     {{with  .Params.image }}
-      <img src="{{ . }}" style="max-height:150px;max-width:150px;"/>
+      <img src="{{ . }}" style="max-height:150px;max-width:150px;display:block;"/>
     {{ end }}
   </div>
   <div class="resume-date">
     <p>{{ .Description | safeHTML }}<p>
   </div>
   <div>
-    <p class><a href="{{.Permalink}}">Read more..</a></p>
+    <p class><a href="{{.Permalink}}">{{ i18n "readmore" }}</a></p>
   </div>
 </div>
