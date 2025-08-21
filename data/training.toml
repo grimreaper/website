@@ -1,16 +1,41 @@
-[training]
-  [training.act]
-    class="Acting"
+[all]
+  [[training]]
     school="American Conservatory of Theater"
+    [[training.class]]
+    class="Acting2"
+    teacher="333"
+    notes="444"
+    [[training.class]]
+    class="Acting"
     teacher="..."
     notes=""
-  [training.ccsf]
+  [[training]]
+    school="City College of San Francisco"
+    [[training.class]]
     class="Acting"
-    school="CCSF"
     teacher="..."
     notes=""
-  [training.kml]
-    class="Acting"
+  [[training]]
     school="KML"
+    [[training.class]]
+    class="Acting"
+    teacher="..."
+    notes=""
+  [[training]]
+    school="Endgames"
+    [[training.class]]
+    class="Acting"
+    teacher="..."
+    notes=""
+  [[training]]
+    school="bats"
+    [[training.class]]
+    class="Acting"
+    teacher="..."
+    notes=""
+  [[training]]
+    school="Unscripted Leaders"
+    [[training.class]]
+    class="Acting"
     teacher="..."
     notes=""
