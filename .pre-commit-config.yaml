@@ -28,7 +28,7 @@ repos:
           [
             "-c",
             ".markdownlint.jsonc",
-            "content",
+            "content/**/*.md",
           ]
 - repo: https://github.com/crate-ci/typos
   rev: v1.35.5
