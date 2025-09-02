@@ -1,0 +1,15 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+  <div class="my-auto" id="skills-content">
+  <h2 class="mb-5">{{ i18n "skills" }}</h2>
+    {{ range .Data.skills.skills }}
+        <div class="subheading mb-3 skills-heading">{{ .group }}</div>
+            <ul class="list-group list-group-flush">
+            {{ range .skill }}
+                    <li class="list-group-item list-group-item-borderless" >
+                          {{ .skill }}
+                    </li>
+            {{ end }}
+            </ul>
+    {{ end }}
+  </div>
+</section>
