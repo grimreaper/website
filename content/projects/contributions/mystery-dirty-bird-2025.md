@@ -1,5 +1,6 @@
 ---
 title: "Mystery at the Dirty Bird: The Case of Chief Bigby"
+publishDate: 2000-01-01
 date: 2025-11-01
 featured: true
 description: "Interactive semi-scripted murder mystery"
