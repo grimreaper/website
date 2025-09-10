@@ -8,6 +8,10 @@
   skill = "Improvised Intimacy & Combat"
 [[skills.skill]]
   skill = "Rapier & Dagger (Dueling Arts)"
+[[skills]]
+  group = "Medical"
+[[skills.skill]]
+  skill = "CPR & First Aid"
 [[skills.skill]]
   skill = "Medical Training Improvisation (symptom & treatment based)"
 [[skills]]
