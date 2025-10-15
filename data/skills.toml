@@ -13,9 +13,9 @@
 [[skills]]
   group = "Medical"
   [[skills.skill]]
-    skill = "CPR & First Aid"
+    skill = "Basic Life Support (American Heart Association)"
   [[skills.skill]]
-    skill = "Medical Training Improvisation (symptom & treatment based)"
+    skill = "Medical Improvisation For Training"
 
 [[skills]]
   group = "Conflict"
