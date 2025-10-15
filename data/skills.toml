@@ -1,22 +1,32 @@
 # [[skills]]
 # group = "Computer Science"
+
 [[skills]]
   group = "Acting"
-[[skills.skill]]
-  skill = "Improvisation"
-[[skills.skill]]
-  skill = "Improvised Intimacy & Combat"
-[[skills.skill]]
-  skill = "Rapier & Dagger (Dueling Arts)"
+  [[skills.skill]]
+    skill = "Improvisation"
+  [[skills.skill]]
+    skill = "Improvised Intimacy & Combat"
+  [[skills.skill]]
+    skill = "Rapier & Dagger (Dueling Arts)"
+
 [[skills]]
   group = "Medical"
-[[skills.skill]]
-  skill = "CPR & First Aid"
-[[skills.skill]]
-  skill = "Medical Training Improvisation (symptom & treatment based)"
+  [[skills.skill]]
+    skill = "CPR & First Aid"
+  [[skills.skill]]
+    skill = "Medical Training Improvisation (symptom & treatment based)"
+
+[[skills]]
+  group = "Conflict"
+ [[skills.skill]]
+    skill = "Transformative Mediation"
+ [[skills.skill]]
+    skill = "Negotiation"
+
 [[skills]]
   group = "Hobbies"
-[[skills.skill]]
-  skill = "Scuba Diving"
-[[skills.skill]]
-  skill = "Board Games"
+  [[skills.skill]]
+    skill = "Scuba Diving"
+  [[skills.skill]]
+    skill = "Board Games"
