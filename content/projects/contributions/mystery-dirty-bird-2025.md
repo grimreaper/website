@@ -1,6 +1,5 @@
 ---
 title: "Mystery at the Dirty Bird: The Case of Chief Bigby"
-publishDate: 2000-01-01
 date: 2025-11-01
 featured: true
 description: "Interactive semi-scripted murder mystery"
@@ -13,8 +12,6 @@ params:
   theatre: "Plethos Productions"
 ---
 
-A fun, interactive experience with a few historical, illustrious, and infamous Bay Area luminaries from history and folklore.
-
-During this original, immersive show, you can interact with the actors who will help you, with a comedic twist, solve The Case of Joe DiMaggio's Missing Bat!
+Come help solve the case! Mystery at the Dirty: The Case of Chief Bigby is a stylized, interactive murder mystery set in 1965. Guests mingle with suspects and uncover clues as the show unfolds around them. It’s noir meets immersive theater—part scripted, part improvised, fully unforgettable.
 
 Directed by Angela Arellano.
