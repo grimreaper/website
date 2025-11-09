@@ -16,7 +16,7 @@ profileImage = "img/EitanAdlerHeadshotV1.jpg"
 showQr = false
 showContact = true
 showSocializations = false
-sections = ["education", "experience", "contributions", "art", "skills"]
+sections = ["education", "experience", "contributions", "art", "skills", "gallery"]
 # sections = ["training", "certifications", "skills","publications","creations","blog"]
 
 [[params.handles]]

@@ -2,7 +2,8 @@
    {{ partial "about.html" .}}
    {{ $projects := slice "creations" "contributions" }}
    {{ $art := slice "art" }}
-   {{ $sections := slice "publications" "blog" }}
+   {{ $sections := slice "publications" "blog" "gallery" }}
+   {{ $links := slice "gallery" }}
    {{ $site := .Site }}
    {{ range .Site.Params.sections }}
       {{ $sectionName := . }}
