@@ -9,3 +9,7 @@ title="Contact"
 ## Meet Me
 
 [Meet Me](https://schedule.eitanadler.com/)
+
+## Elsewhere
+
+{{< socials >}}

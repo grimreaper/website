@@ -15,7 +15,6 @@ lastName = "Adler"
 profileImage = "img/EitanAdlerHeadshotV1.jpg"
 showQr = false
 showContact = true
-showSocializations = true
 sections = ["education", "experience", "contributions", "art", "skills", "gallery"]
 # sections = ["training", "certifications", "skills","publications","creations","blog"]
 
