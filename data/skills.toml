@@ -13,9 +13,11 @@
 [[skills]]
   group = "Medical"
   [[skills.skill]]
+    skill = "Emergency Medical Technician (EMT)"
+  [[skills.skill]]
     skill = "Basic Life Support — Instructor (American Heart Association)"
   [[skills.skill]]
-    skill = "Medical Improvisation For Training"
+    skill = "Improvisation For Medical Training"
 
 [[skills]]
   group = "Conflict"
