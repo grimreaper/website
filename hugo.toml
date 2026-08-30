@@ -1,5 +1,5 @@
 baseURL = 'https://eitanadler.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Eitan Adler'
 
 theme = [ 'hugo-resume' ]
