@@ -1,7 +1,7 @@
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certifications">
           <div class="my-auto">
           <h2 class="mb-5">{{ i18n "certifications" }}</h2>
-            {{ range $.Data.certifications.certifications }}
+            {{ range hugo.Data.certifications.certifications }}
               <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
                   <h3 class="mb-0">{{ .class | markdownify }}</h3>
