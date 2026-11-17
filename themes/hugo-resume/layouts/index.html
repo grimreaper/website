@@ -1,12 +1,19 @@
 {{ define "main" }}
    {{ partial "about.html" .}}
    {{ $projects := slice "creations" "contributions" }}
-   {{ $sections := slice "publications" "blog" }}
+   {{ $art := slice "art" }}
+   {{ $sections := slice "publications" "blog" "gallery" }}
+   {{ $links := slice "gallery" }}
    {{ $site := .Site }}
    {{ range .Site.Params.sections }}
       {{ $sectionName := . }}
       {{ if in $projects . }}
          {{ with $site.GetPage "section" (printf "projects/%s" .) }}
+            {{ .Scratch.Set "sectionId" $sectionName }}
+            {{ partial "sectionSummary" . }}
+         {{ end }}
+      {{ else if in $art . }}
+         {{ with $site.GetPage "section" (printf "%s" .) }}
             {{ .Scratch.Set "sectionId" $sectionName }}
             {{ partial "sectionSummary" . }}
          {{ end }}
