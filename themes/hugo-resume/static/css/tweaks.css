@@ -1,4 +1,3 @@
-
 @media (max-width: 768px) {
   /* makes googlebot happy with tap target spacing */
   a {
@@ -19,11 +18,6 @@ img {
   margin: 0 auto;
 }
 
-.devicons{
-  font-size:1.5em;
-      vertical-align: sub;
-}
-
 /* ensure items with short summarues push date over image */
 .publication-content{
   width:90%;
@@ -42,7 +36,6 @@ div.skills-heading{
     margin-top:1em;
     margin-bottom:0 !important;
 }
-
 
 
 /* From https://codepen.io/wbeeftink/pen/dIaDH */
@@ -110,9 +103,6 @@ div.skills-heading{
   font-style:italic;
 }
 
-
-
-
 .resume-section blockquote {
     border-left: 4px solid #BD5D38;
     padding-left: 1em;
@@ -122,30 +112,3 @@ div.skills-heading{
 .my-auto {
 	width: 100%
 }
-
-    .advteaser-container{
-
-    }
-
-    .advteaser {
-        width: 250px;
-        height: 250px;
-        position: relative;
-        display: inline-block;
-    }
-    .advteaser img {
-        position: absolute;
-        top: 0;
-        left: 0;
-    }
-    .advteaser .img-top {
-        display: none;
-        z-index: 99;
-    }
-    .advteaser-container:hover .img-top {
-        display: inline;
-    }
-
-    img.qrcode {
-      max-width: 300px !important;
-    }
