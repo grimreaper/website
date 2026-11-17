@@ -40,12 +40,12 @@ Optimism in heart I was optimistic this now major highway would have some little
 
 ... Well 35 miles on empty now, I must be running on fumes.  I'm now scanning every house I pass (which are all to infrequent) for a lawn-mower, atv, or anything with a gas can I could beg for.
 
-**43 miles on empty** -- and finally! a shop, oh now.. no pumps here. I let the clutch out again as I spot something in the corner of the little general store - a single hose hand-cranked gas pump! 
+**43 miles on empty** -- and finally! a shop, oh now.. no pumps here. I let the clutch out again as I spot something in the corner of the little general store - a single hose hand-cranked gas pump!
 
 
 ![43 miles on empty](43miles.JPG)
 
-Wait, WAIT, turn-around!  Was that in fact an old hand-pump -- is it show or functional?  Do they actually have gas?! 
+Wait, WAIT, turn-around!  Was that in fact an old hand-pump -- is it show or functional?  Do they actually have gas?!
 
 No option but to try!
 

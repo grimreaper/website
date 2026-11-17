@@ -31,7 +31,7 @@
     function executeSearch(searchQuery){
       $.ajax({
         dataType: "json",
-        url: "/index.json", 
+        url: "/index.json",
         success: function( data ) {
           var pages = data;
           var fuse = new Fuse(pages, fuseOptions);

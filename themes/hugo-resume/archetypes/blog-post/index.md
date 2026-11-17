@@ -11,12 +11,12 @@ resources:
       title: Eddie Webbinaro
       src: assets/headsot.jpg
 ---
-{{< floatimg "headshot" "350x350" "Eddie headhsot" "right" >}}
+{{< floatimg "headshot" "350x350" "Eddie headshot" "right" >}}
 
 Welcome to sample post
 
 - list
-- of 
+- of
 - things
 
 Special image formatting to float in upper right
