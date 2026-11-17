@@ -1,5 +1,9 @@
-
-<h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+{{ if lt (sub now.Unix .Date.Unix) 0 }}
+<h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }} ({{ .Date.Format "2006" }} - Upcoming)</a></h3>
+{{ else }}
+<h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }} ({{ .Date.Format "2006" }})</a></h3>
+{{ end }}
+<h4>{{ .Params.Role }} | {{ .Params.Theatre }}</h4>
 <div class="resume-item d-flex flex-column flex-md-row mb-3">
 
   <div class="resume-content" style="width:200px;">
@@ -9,7 +13,6 @@
   </div>
   <div class="resume-date">
     <p>{{ .Description | safeHTML }}<p>
-    <p class><a href="{{.Permalink}}">Read more..</a></p>
+    <p class><a href="{{.Permalink}}">{{ i18n "readmore" }}</a></p>
   </div>
 </div>
-<div>{{ partial "techtags" . }}</div>
